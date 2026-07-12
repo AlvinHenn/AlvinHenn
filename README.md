@@ -58,7 +58,7 @@ philosophy: "Every byte counts — building one commit at a time."
 ```
 [ 01 ] MarketScout AI — Multi-Agent Market Intelligence Platform (2026)
         → Built for the AMD Developer Hackathon: ACT II (Unicorn Track) — a
-          12-agent platform that turns a startup idea into a full market report
+          14-agent platform that turns a startup idea into a full market report
           (competitors, patents, funding, market trends, SWOT) in minutes.
         → My role: frontend development, connecting the dashboard to backend
           APIs, and troubleshooting UI/data-flow across the agent pipeline.
