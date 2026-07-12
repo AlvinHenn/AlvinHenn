@@ -57,9 +57,13 @@ philosophy: "Every byte counts — building one commit at a time."
 
 ```
 [ 01 ] MarketScout AI — Multi-Agent Market Intelligence Platform (2026)
-        → Multi-agent AI system (LangGraph) turning a startup idea into a full
-          market report — competitors, SWOT, risk, sizing — built in 6 days.
-        → Next.js · FastAPI · LangGraph · Fireworks AI · Supabase
+        → Built for the AMD Developer Hackathon: ACT II (Unicorn Track) — a
+          12-agent platform that turns a startup idea into a full market report
+          (competitors, patents, funding, market trends, SWOT) in minutes.
+        → My role: frontend development, connecting the dashboard to backend
+          APIs, and troubleshooting UI/data-flow across the agent pipeline.
+        → Next.js · Tailwind CSS · AMD Developer Cloud · Fireworks AI · LangChain
+        → 🔗 See submission in "Hackathons Participated" below
 
 [ 02 ] ExpenseLab — Personal Finance Tracker (2026)
         → Full-stack finance app with auth, dashboards, and analytics.
@@ -73,14 +77,33 @@ philosophy: "Every byte counts — building one commit at a time."
 [ 04 ] NZHome — Smart Home Energy Awareness App (2025)
         → Full-stack team project (7 devs) tracking energy consumption.
         → React · Spring · Spring Security · Vercel · Railway
-
-[ 05 ] AMD Developer Hackathon Act II — lablab.ai (2026)
-        → Participated in the AMD-sponsored hackathon on lablab.ai, building
-          MarketScout AI on AMD Instinct GPU compute.
-        → Next.js · FastAPI · LangGraph · Fireworks AI
 ```
 
 📁 More on my [Portfolio](https://alvinhenn.github.io/Portfolio/) →
+
+---
+
+### 🏆 `Hackathons Participated`
+
+<p align="center">
+  <a href="https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-ii/hack-horizon/marketscout-ai">
+    <img src="https://img.shields.io/badge/AMD%20Developer%20Hackathon%3A%20ACT%20II-Unicorn%20Track-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+**MarketScout AI** — Team **Hack-Horizon** · lablab.ai × AMD × Fireworks AI
+
+Built a 12-agent platform that turns a startup idea into a full market
+validation report (competitors, patents, funding, trends, SWOT) in minutes,
+running on AMD Instinct GPUs via Fireworks AI. **My contribution: frontend
+development** — building the dashboard and wiring it to the backend agent
+pipeline.
+
+[🔗 Submission](https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-ii/hack-horizon/marketscout-ai) · [💻 GitHub](https://github.com/abdullahxyz85/MarketScout-AI) · [🎥 Demo](https://ai.itdpy.xyz/)
+
+</div>
 
 ---
 
