@@ -95,7 +95,7 @@ philosophy: "Every byte counts — building one commit at a time."
 
 **MarketScout AI** — Team **Hack-Horizon** · lablab.ai × AMD × Fireworks AI
 
-Built a 12-agent platform that turns a startup idea into a full market
+Built a 14-agent platform that turns a startup idea into a full market
 validation report (competitors, patents, funding, trends, SWOT) in minutes,
 running on AMD Instinct GPUs via Fireworks AI. **My contribution: frontend
 development** — building the dashboard and wiring it to the backend agent
