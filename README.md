@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alvin+%E2%80%94+AByT3s;01000001+01000010+01011001+01010100+00110011+01110011;One+byte+in+a+world+of+billions;Compiling+ambition+into+code..." alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💾 AByT3s — <i>a byte(s), one small unit in this world.online</i> 💾</h3>
+<h3 align="center">💾 AByT3s — <i>a byte(s), one small unit grinding through Earth Online (地球online)</i> 💾</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
@@ -13,6 +13,7 @@
   <a href="mailto:alvinhenn002@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://alvinhenn.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/AlvinHenn"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://lablab.ai"><img src="https://img.shields.io/badge/-lablab.ai-3B5998?style=for-the-badge&logo=internetarchive&logoColor=white" /></a>
 </p>
 
 ---
@@ -72,6 +73,11 @@ philosophy: "Every byte counts — building one commit at a time."
 [ 04 ] NZHome — Smart Home Energy Awareness App (2025)
         → Full-stack team project (7 devs) tracking energy consumption.
         → React · Spring · Spring Security · Vercel · Railway
+
+[ 05 ] AMD Developer Hackathon Act II — lablab.ai (2026)
+        → Participated in the AMD-sponsored hackathon on lablab.ai, building
+          MarketScout AI on AMD Instinct GPU compute.
+        → Next.js · FastAPI · LangGraph · Fireworks AI
 ```
 
 📁 More on my [Portfolio](https://alvinhenn.github.io/Portfolio/) →
