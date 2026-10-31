@@ -56,7 +56,27 @@ philosophy: "Every byte counts — building one commit at a time."
 ### ⚡ `Featured Builds`
 
 ```
-[ 01 ] MarketScout AI — Multi-Agent Market Intelligence Platform (2026)
+[ 01 ] AI Board Game Tutor — Board Game Wiki & Chatbot (2026)
+        → Built for the AMD Developer Hackathon: ACT III (Team Aatam) — an
+          AI-powered board game wiki that teaches new games through a chatbot
+          and generated video explanations, relating rules to games the user
+          already knows.
+        → Served Google's Gemma on AMD Developer Cloud for cost-effective,
+          scalable inference; shipped a live demo on Vercel (6-person team).
+        → Gemma · AMD Developer Cloud · Vercel
+        → 🔗 See submission in "Hackathons Participated" below
+
+[ 02 ] QuantNova — Multi-Agent Options Trading Terminal (2026)
+        → Built for the Alpaca AI Trading Agents Hackathon — Market Analyst,
+          Opportunity Scanner, Options Strategist and Devil's Advocate agents
+          collaborate to propose explainable trades on Alpaca paper accounts.
+        → 10+ technical indicators (RSI, MACD, ATR, VWAP, Bollinger Bands)
+          combined into an eight-factor market score, gated by a deterministic
+          risk manager that fails closed to HOLD on invalid trades.
+        → Python · Streamlit · Alpaca API · Llama 4 · GPT-4o
+        → 🔗 See submission in "Hackathons Participated" below
+
+[ 03 ] MarketScout AI — Multi-Agent Market Intelligence Platform (2026)
         → Built for the AMD Developer Hackathon: ACT II (Unicorn Track) — a
           14-agent platform that turns a startup idea into a full market report
           (competitors, patents, funding, market trends, SWOT) in minutes.
@@ -65,16 +85,16 @@ philosophy: "Every byte counts — building one commit at a time."
         → Next.js · Tailwind CSS · AMD Developer Cloud · Fireworks AI · LangChain
         → 🔗 See submission in "Hackathons Participated" below
 
-[ 02 ] ExpenseLab — Personal Finance Tracker (2026)
+[ 04 ] ExpenseLab — Personal Finance Tracker (2026)
         → Full-stack finance app with auth, dashboards, and analytics.
         → TypeScript · Neon PostgreSQL
 
-[ 03 ] Twitter Sentiment Analysis & Stock Market Research (2025-2026)
+[ 05 ] Twitter Sentiment Analysis & Stock Market Research (2025-2026)
         → NLP pipeline (FinBERT + SentiStrength) correlating social sentiment
           with stock price movement.
         → Python · NLP · Data Analysis
 
-[ 04 ] NZHome — Smart Home Energy Awareness App (2025)
+[ 06 ] NZHome — Smart Home Energy Awareness App (2025)
         → Full-stack team project (7 devs) tracking energy consumption.
         → React · Spring · Spring Security · Vercel · Railway
 ```
@@ -84,6 +104,39 @@ philosophy: "Every byte counts — building one commit at a time."
 ---
 
 ### 🏆 `Hackathons Participated`
+
+<div align="center">
+
+**AI Board Game Tutor** — Team **Aatam** · AMD Developer Hackathon: ACT III · 12 – 18 Oct 2026
+
+Co-built an AI-powered board game wiki that teaches new games through a
+chatbot and generated video explanations, relating rules to games the user
+already knows. Served Google's **Gemma** on **AMD Developer Cloud** for
+cost-effective, scalable inference and shipped a live demo on **Vercel** as
+part of a 6-person team.
+
+`Gemma` · `AMD Developer Cloud` · `Vercel`
+
+</div>
+
+---
+
+<div align="center">
+
+**QuantNova** — Alpaca AI Trading Agents Hackathon · 28 Aug – 4 Sep 2026
+
+Co-developed an explainable options-trading terminal where Market Analyst,
+Opportunity Scanner, Options Strategist and Devil's Advocate agents
+collaborate to propose trades on Alpaca paper accounts. Combined 10+
+technical indicators (RSI, MACD, ATR, VWAP, Bollinger Bands) into an
+eight-factor market score, gated by a deterministic risk manager that fails
+closed to HOLD on invalid trades.
+
+`Python` · `Streamlit` · `Alpaca API` · `Llama 4` · `GPT-4o`
+
+</div>
+
+---
 
 <p float="left">
   <a href="https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-ii/hack-horizon/marketscout-ai" target="_blank">
