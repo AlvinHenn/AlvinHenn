@@ -105,6 +105,12 @@ philosophy: "Every byte counts — building one commit at a time."
 
 ### 🏆 `Hackathons Participated`
 
+<p float="left">
+  <a href="https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/pachai" target="_blank">
+    <img src="./assets/amd-hackathon-act-iii-banner.webp" width="390">
+  </a>
+</p>
+
 <div align="center">
 
 **AI Board Game Tutor** — Team **Aatam** · AMD Developer Hackathon: ACT III · 12 – 18 Oct 2026
@@ -117,9 +123,17 @@ part of a 6-person team.
 
 `Gemma` · `AMD Developer Cloud` · `Vercel`
 
+[🔗 Submission](https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/pachai) · [💻 GitHub](https://github.com/abdullahxyz85/AMD-Developer-Hackathon-3)
+
 </div>
 
 ---
+
+<p float="left">
+  <a href="https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon/quantnova" target="_blank">
+    <img src="./assets/alpaca-hackathon-banner.png" width="390">
+  </a>
+</p>
 
 <div align="center">
 
@@ -133,6 +147,8 @@ eight-factor market score, gated by a deterministic risk manager that fails
 closed to HOLD on invalid trades.
 
 `Python` · `Streamlit` · `Alpaca API` · `Llama 4` · `GPT-4o`
+
+[🔗 Submission](https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon/quantnova) · [💻 GitHub](https://github.com/oxzz601-rg/Alpaca-Agent)
 
 </div>
 
