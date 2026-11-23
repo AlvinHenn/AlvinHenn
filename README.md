@@ -56,7 +56,16 @@ philosophy: "Every byte counts — building one commit at a time."
 ### ⚡ `Featured Builds`
 
 ```
-[ 01 ] AI Board Game Tutor — Board Game Wiki & Chatbot (2026)
+[ 01 ] GeoLens — Lithology Report Data Extraction (2026)
+        → Built for HackTheBurgh XIII (Viridien challenge, Team Stack
+          Underflow) — extracts lithology data from scanned geological
+          report images into structured descriptions.
+        → My role: the bonus task — training a U-Net model to detect
+          bounding boxes directly, without the provided pre-annotated images.
+        → Python · U-Net · YOLO · OCR · Computer Vision
+        → 🔗 See submission in "Hackathons Participated" below
+
+[ 02 ] AI Board Game Tutor — Board Game Wiki & Chatbot (2026)
         → Built for the AMD Developer Hackathon: ACT III (Team Aatam) — an
           AI-powered board game wiki that teaches new games through a chatbot
           and generated video explanations, relating rules to games the user
@@ -66,7 +75,7 @@ philosophy: "Every byte counts — building one commit at a time."
         → Gemma · AMD Developer Cloud · Vercel
         → 🔗 See submission in "Hackathons Participated" below
 
-[ 02 ] QuantNova — Multi-Agent Options Trading Terminal (2026)
+[ 03 ] QuantNova — Multi-Agent Options Trading Terminal (2026)
         → Built for the Alpaca AI Trading Agents Hackathon — Market Analyst,
           Opportunity Scanner, Options Strategist and Devil's Advocate agents
           collaborate to propose explainable trades on Alpaca paper accounts.
@@ -76,7 +85,7 @@ philosophy: "Every byte counts — building one commit at a time."
         → Python · Streamlit · Alpaca API · Llama 4 · GPT-4o
         → 🔗 See submission in "Hackathons Participated" below
 
-[ 03 ] MarketScout AI — Multi-Agent Market Intelligence Platform (2026)
+[ 04 ] MarketScout AI — Multi-Agent Market Intelligence Platform (2026)
         → Built for the AMD Developer Hackathon: ACT II (Unicorn Track) — a
           14-agent platform that turns a startup idea into a full market report
           (competitors, patents, funding, market trends, SWOT) in minutes.
@@ -85,16 +94,16 @@ philosophy: "Every byte counts — building one commit at a time."
         → Next.js · Tailwind CSS · AMD Developer Cloud · Fireworks AI · LangChain
         → 🔗 See submission in "Hackathons Participated" below
 
-[ 04 ] ExpenseLab — Personal Finance Tracker (2026)
+[ 05 ] ExpenseLab — Personal Finance Tracker (2026)
         → Full-stack finance app with auth, dashboards, and analytics.
         → TypeScript · Neon PostgreSQL
 
-[ 05 ] Twitter Sentiment Analysis & Stock Market Research (2025-2026)
+[ 06 ] Twitter Sentiment Analysis & Stock Market Research (2025-2026)
         → NLP pipeline (FinBERT + SentiStrength) correlating social sentiment
           with stock price movement.
         → Python · NLP · Data Analysis
 
-[ 06 ] NZHome — Smart Home Energy Awareness App (2025)
+[ 07 ] NZHome — Smart Home Energy Awareness App (2025)
         → Full-stack team project (7 devs) tracking energy consumption.
         → React · Spring · Spring Security · Vercel · Railway
 ```
@@ -104,6 +113,24 @@ philosophy: "Every byte counts — building one commit at a time."
 ---
 
 ### 🏆 `Hackathons Participated`
+
+<div align="center">
+
+**GeoLens** — Team **Stack Underflow** · HackTheBurgh XIII · 7 – 8 Nov 2026
+
+Co-built a tool for Viridien's challenge that extracts lithology data from
+scanned geological report images and outputs structured descriptions, using
+YOLO models, OCR and classical computer vision. **My contribution:** the bonus
+task — training a **U-Net** segmentation model to detect bounding boxes
+directly, instead of relying on the provided pre-annotated images.
+
+`Python` · `U-Net` · `YOLO` · `OCR` · `Computer Vision`
+
+[🔗 Submission](https://hacktheburgh.com/projects/a4b4b765-a887-4d41-8889-77da2edd3528) · [💻 GitHub](https://github.com/CordlessGnu/StackUnderflow_Submission)
+
+</div>
+
+---
 
 <p float="left">
   <a href="https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/pachai" target="_blank">
